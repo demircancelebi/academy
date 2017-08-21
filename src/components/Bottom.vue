@@ -36,8 +36,7 @@
     name: 'Bottom',
     data() {
       const data = {
-        logo: 'https://baremetrics.imgix.net/site/logo.svg',
-        // logo: 'https://www.marketinf.com/assets/images/logo_light.bd3c6a11.png',
+        logo: 'https://www.marketinf.com/assets/images/logo_light.bd3c6a11.png',
         link: '#',
         btn: 'Start my free trial',
         company: 'Marketinf',
