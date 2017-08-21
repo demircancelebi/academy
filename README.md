@@ -1,6 +1,6 @@
 # academy
 
-> A SaaS for managing content marketing/academy websites
+> A Vue.js template for content marketing/academy websites
 
 ## Build Setup
 
