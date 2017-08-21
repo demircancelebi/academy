@@ -2,6 +2,8 @@
 
 > A Vue.js template for content marketing/academy websites
 
+![Screenshot](https://raw.githubusercontent.com/demircancelebi/academy/master/src/assets/ss.png)
+
 ## Build Setup
 
 ``` bash
